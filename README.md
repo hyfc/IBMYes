@@ -1,4 +1,5 @@
 # IBMYes
+![IBM Cloud Auto Restart](https://github.com/hyfc/IBMYes/workflows/IBM%20Cloud%20Auto%20Restart/badge.svg)
 
 本项目包括3部分
 
